@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1932315374/android.cloud_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/-1932315374/android.cloud_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/184960376/android.firebase_analytics.iml" filepath="$PROJECT_DIR$/.idea/modules/184960376/android.firebase_analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1893038128/android.firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-1893038128/android.firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1671241095/android.firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/1671241095/android.firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-877220489/android.google_mobile_ads.iml" filepath="$PROJECT_DIR$/.idea/modules/-877220489/android.google_mobile_ads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-128001791/android.image_gallery_saver.iml" filepath="$PROJECT_DIR$/.idea/modules/-128001791/android.image_gallery_saver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1447375747/android.permission_handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1447375747/android.permission_handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1361037350/android.url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/-1361037350/android.url_launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1646230799/android.wallpaper_manager.iml" filepath="$PROJECT_DIR$/.idea/modules/-1646230799/android.wallpaper_manager.iml" />
+    </modules>
+  </component>
+</project>
